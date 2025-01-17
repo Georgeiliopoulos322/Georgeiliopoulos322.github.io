@@ -1,3 +1,1 @@
-# Georgeiliopoulos322.github.io
-
-George's Github repository
+# George's Github Repository
